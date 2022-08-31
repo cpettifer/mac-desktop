@@ -1,0 +1,18 @@
+cal2195/q 
+djui/alias-tips
+mafredri/zsh-async
+tysonwolker/iterm-tab-colors
+
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+
+robbyrussell/oh-my-zsh path:plugins/globalias
+
+Tarrasch/zsh-bd
+changyuheng/fz
+rupa/z
+
+zdharma/history-search-multi-word
+zsh-users/zsh-syntax-highlighting
+
+romkatv/powerlevel10k

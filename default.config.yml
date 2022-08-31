@@ -1,0 +1,43 @@
+---
+downloads: ~/.ansible-downloads/
+
+homebrew_installed_packages:
+  # - ansible # Installed via Pip.
+  - awscli
+  - antibody
+  - bat
+  - bottom
+  - cowsay
+  - exa
+  - fd
+  # - font-hack-nerd-font
+  - fzf
+  - gh
+  - git
+  - gnupg
+  - httpie
+  - neovim
+  - node
+  - nvm
+  - prettyping
+  - terraform
+  - thefuck
+  - tldr
+  - tree
+  - yarn
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+  - clementtsang/bottom
+  - homebrew/cask-drivers
+  - homebrew/cask-fonts
+
+homebrew_cask_appdir: /Applications
+homebrew_cask_apps:
+  - docker
+  - iterm2
+  - rectangle
+  - spotify
+  - tuple
+  - visual-studio-code
