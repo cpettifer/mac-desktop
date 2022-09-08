@@ -1,5 +1,9 @@
 # Mac Desktop Setup
 
+Ansible playbook to setup my Mac with some programs / configure zsh and a handful of default Mac settings.
+
+This is based off of two similar playbooks https://github.com/geerlingguy/mac-dev-playbook and https://github.com/denialanderror/automac.
+
 ## Installation
 
   1. Ensure Apple's command line tools are installed (`xcode-select --install` to launch the installer).
